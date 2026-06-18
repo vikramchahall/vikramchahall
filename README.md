@@ -2,15 +2,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2da44e&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+AI%2FML+Engineer;Civil+Engineering+Student+at+NIT+Jalandhar;Building+scalable+systems+with+modern+tech;Passionate+about+product+engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2da44e&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+AI%2FML+Engineer;Engineering+Student+at+NIT+Jalandhar;Building+scalable+systems+with+modern+tech;Passionate+about+product+engineering)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![](https://img.shields.io/badge/Education-NIT%20Jalandhar%20%7C%20B.Tech%20CE-2da44e?style=for-the-badge&labelColor=1F2937&color=238636)](https://www.nitj.ac.in/)
+[![](https://img.shields.io/badge/Education-NIT%20Jalandhar%20%7C%20B.Tech-2da44e?style=for-the-badge&labelColor=1F2937&color=238636)](https://www.nitj.ac.in/)
 [![](https://img.shields.io/badge/Location-Punjab%2C%20India-238636?style=for-the-badge&labelColor=1F2937)](https://www.google.com/maps/place/Punjab/)
-[![](https://img.shields.io/badge/Portfolio-vikramsingh.dev-2da44e?style=for-the-badge&labelColor=1F2937)](https://vikramsingh.dev/)
+[![](https://img.shields.io/badge/Portfolio-vikramsingh.dev-2da44e?style=for-the-badge&labelColor=1F2937)](https://vikramchahall.github.io/portfolio/)
 [![](https://img.shields.io/badge/LinkedIn-vikramchahall-2da44e?style=for-the-badge&labelColor=1F2937&logo=linkedin)](https://linkedin.com/in/vikramchahall)
 
 </div>
@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 
-I'm a **full-stack developer and AI/ML engineer** currently pursuing a B.Tech in Civil Engineering at **NIT Jalandhar**. I bridge the gap between infrastructure knowledge and modern software engineering, building scalable products that solve real-world problems.
+I'm a **full-stack developer and AI/ML engineer** currently pursuing a B.Tech in **NIT Jalandhar**. I bridge the gap between infrastructure knowledge and modern software engineering, building scalable products that solve real-world problems.
 
 With hands-on experience at **Accenture** and internships across district governance and highway management, I've developed expertise in:
 
@@ -289,7 +289,7 @@ Analyzed scheduling and progress data for INR 1,400 Crore highway project.
 
 ![Vikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikramchahall&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=2da44e&text_color=E5E7EB&icon_color=238636)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vikramchahall&theme=dark&background=0D1117&stroke=2da44e&fire=238636&ring=2da44e)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=vikramchahall&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=2da44e&text_color=E5E7EB&icon_color=238636&hide=stars,prs,issues&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramchahall&layout=compact&theme=github_dark&bg_color=0D1117&title_color=2da44e&text_color=E5E7EB)
 
@@ -297,13 +297,15 @@ Analyzed scheduling and progress data for INR 1,400 Crore highway project.
 
 ---
 
-## 🏅 GitHub Trophies
+## 🎖️ Achievements Summary
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vikramchahall&theme=gitdimmed&no-frame=true&row=1&column=6)
-
-</div>
+| Stat | Count |
+|------|-------|
+| **Repositories** | 15+ |
+| **Public Projects** | 8 |
+| **Stars Earned** | 50+ |
+| **Contributions** | 200+ |
+| **Followers** | Growing |
 
 ---
 
@@ -354,7 +356,7 @@ Open To:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikrams.ce.23@nitj.ac.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikramchahall)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikramchahall)
-[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=globe&logoColor=white)](https://vikramsingh.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=globe&logoColor=white)](https://vikramchahall.github.io/portfolio/)
 
 </div>
 
