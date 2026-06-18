@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=2da44e&height=200&section=header&text=Vikram%20Singh&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35)
+![](https://capsule-render.vercel.app/api?type=waving&color=2da44e&height=120&section=header&text=Vikram%20Singh&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35)
 
 <div align="center">
 
@@ -8,10 +8,10 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/Education-NIT%20Jalandhar%20%7C%20B.Tech-2da44e?style=for-the-badge&labelColor=1F2937&color=238636)](https://www.nitj.ac.in/)
-[![](https://img.shields.io/badge/Location-Punjab%2C%20India-238636?style=for-the-badge&labelColor=1F2937)](https://www.google.com/maps/place/Punjab/)
-[![](https://img.shields.io/badge/Portfolio-vikramsingh.dev-2da44e?style=for-the-badge&labelColor=1F2937)](https://vikramchahall.github.io/portfolio/)
-[![](https://img.shields.io/badge/LinkedIn-vikramchahall-2da44e?style=for-the-badge&labelColor=1F2937&logo=linkedin)](https://linkedin.com/in/vikramchahall)
+[![](https://img.shields.io/badge/NIT%20Jalandhar-238636?style=flat&labelColor=1F2937)](https://www.nitj.ac.in/)
+[![](https://img.shields.io/badge/Punjab%2C%20India-238636?style=flat&labelColor=1F2937)](https://www.google.com/maps/place/Punjab/)
+[![](https://img.shields.io/badge/Portfolio-2da44e?style=flat&labelColor=1F2937)](https://vikramchahall.github.io/portfolio/)
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&labelColor=1F2937&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikramchahall)
 
 </div>
 
@@ -25,23 +25,14 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About
 
-I'm a **full-stack developer and AI/ML engineer** currently pursuing a B.Tech in **NIT Jalandhar**. I bridge the gap between infrastructure knowledge and modern software engineering, building scalable products that solve real-world problems.
+Full-stack developer & AI/ML engineer at **NIT Jalandhar**. I build scalable products using Next.js, React, Flutter, and Python — from real-time WebRTC systems to XGBoost ML pipelines. Experienced at Accenture and across product-focused internships.
 
-With hands-on experience at **Accenture** and internships across district governance and highway management, I've developed expertise in:
+**Expertise**: Full-stack development • AI/ML systems • Product engineering • Real-time architectures
 
-- **Full Stack Development**: Next.js, React, Flutter, with production-grade architectures
-- **AI/ML Systems**: XGBoost, sensor fusion, predictive modeling, generative AI integration
-- **Product Engineering**: Feature-complete platforms with 150+ active users, enterprise auth (RBAC, SSO), real-time systems
-- **Infrastructure & DevOps**: Docker, Railway, Vercel, Supabase, REST APIs, WebRTC peer-to-peer systems
-
-My work emphasizes **user-centric design**, **scalable databases** (PostgreSQL > NoSQL for structured data), and **rapid iteration** on product feedback.
-
-### 📍 Open To
-- Full-time software engineering roles (backend, full-stack, ML)
-- Internships in product engineering and AI systems
-- Open-source contributions in video/real-time systems
+### Open To
+Full-time roles (backend, full-stack, ML) • Internships • Open-source contributions
 
 ---
 
@@ -86,6 +77,15 @@ My work emphasizes **user-centric design**, **scalable databases** (PostgreSQL >
 ![](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/Gemini%20API-8E75B6?style=for-the-badge&logo=google&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+## 💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4D3F?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/)
 
 ---
 
@@ -230,56 +230,26 @@ Digitized meal tracking, billing, and attendance for 500+ student hostel. Starte
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### **Accenture** — Advanced Application Engineering Analyst Intern
-*Jun 2026 – Jul 2026 (Ongoing)*
+*Jun 2026 – Jul 2026 (Ongoing)* | Enterprise application development, modern software delivery
 
-Selected via campus recruitment (ML11 batch) for enterprise-scale application development in a professional consulting environment.
-- Application development with modern software delivery practices
-- Exposure to FAANG-level engineering standards and code review processes
+### **Office of the District Commissioner** — Technical & Operations Intern
+*Oct 2025 – Jan 2026* | Built Connect NRI (Flutter-Supabase) • 150+ active users • RBAC • FCM notifications • Team leadership
 
-**Skills**: Enterprise Development, Software Architecture, Professional Consulting
-
----
-
-### **Office of the District Commissioner, Jalandhar** — Technical & Operations Intern
-*Oct 2025 – Jan 2026*
-
-Architected and deployed **Connect NRI**, a Flutter-Supabase platform serving 150+ active users for district-level social contribution tracking.
-
-- **Full-Stack Development**: Designed PostgreSQL schema, implemented RBAC, built Flutter UI and Next.js admin dashboard
-- **Team Leadership**: Coordinated 3-person team via GitHub (branching, PRs, code review), managed end-to-end delivery
-- **Digital Outreach**: Designed assets for Project Chetna reaching 70+ schools across the district
-- **Recognition**: Issued Letter of Recommendation from District Commissioner for platform success
-
-**Skills**: RBAC, Supabase, Flutter, PostgreSQL, Google Auth, FCM Notifications, GitHub Workflow
-
----
-
-### **National Highways Authority of India (NHAI)** — Paid Project Intern
-*Dec 2025 – Jan 2026*
-
-Analyzed scheduling and progress data for INR 1,400 Crore highway project.
-
-- **Data Analysis**: Used Primavera P6 to extract project scheduling and progress metrics
-- **Dashboard Development**: Built Excel dashboards improving visibility into project milestones and bottlenecks
-- **Impact**: Identified critical path delays, reducing project planning uncertainty
-
-**Skills**: Primavera P6, Excel, Data Analysis, Infrastructure Project Management
-
----
+### **NHAI** — Paid Project Intern  
+*Dec 2025 – Jan 2026* | Analyzed INR 1,400 Crore highway project • Primavera P6 scheduling • Excel dashboards
 
 ## 🎖️ Achievements
 
 | Recognition | Details |
-|-------------|---------|
-| **National Hackathon Finalist** | Top 10 out of 7,000+ entries at AtomQuest Hackathon 1.0; GoalFlow national finalist |
-| **Hackathon Prize Winner** | Won INR 10,000 at LetStart'24 for Smart Mess Management System (1st Prize) |
-| **District Commissioner's Letter** | Issued for leading Connect NRI platform and Project Chetna outreach (150+ users, 70+ schools) |
-| **National-Level Athlete** | Represented NIT Jalandhar at Inter-NIT Swimming Championship (2025) |
-| **Library Secretary** | Elected hostel library lead; organized events for 300+ students |
-| **Accenture Campus Hire** | Selected via campus recruitment for enterprise software engineering role |
+|---|---|
+| **Top 10 Finalist** | AtomQuest Hackathon (7,000+ entries) |
+| **1st Prize** | LetStart'24 Hackathon (INR 10,000) |
+| **District Commissioner's Letter** | Connect NRI platform (150+ users, 70+ schools) |
+| **National Athlete** | Inter-NIT Swimming Championship 2025 |
+| **Accenture Campus Hire** | Enterprise software engineering |
 
 ---
 
@@ -319,32 +289,13 @@ Analyzed scheduling and progress data for INR 1,400 Crore highway project.
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently
 
-```yaml
-Learning:
-  - Advanced WebRTC and P2P networking patterns
-  - Generative AI system design and prompt engineering
-  - Distributed systems and real-time architecture
-  - Advanced SQL and database optimization
-
-Building:
-  - Full-stack platforms with 100+ users
-  - AI-powered features in web apps
-  - Real-time collaboration systems
-  - Open-source libraries for video/WebRTC
-
-Exploring:
-  - Rust for systems programming
-  - Machine learning inference optimization
-  - Cloud architecture and DevOps best practices
-  - Product engineering at scale
-
-Open To:
-  - Full-time roles: Backend, Full-Stack, ML Engineering
-  - Internships: Product Engineering, AI Systems
-  - Open-source collaboration
-  - Advisory roles on tech architecture
+```
+Learning: WebRTC • Generative AI • Distributed systems • Advanced SQL
+Building: Full-stack platforms • AI features • Real-time systems  
+Exploring: Rust • ML optimization • Cloud architecture
+Open To: Backend / Full-Stack / ML roles • Internships • Open-source
 ```
 
 ---
@@ -353,10 +304,10 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikrams.ce.23@nitj.ac.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikramchahall)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikramchahall)
-[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=globe&logoColor=white)](https://vikramchahall.github.io/portfolio/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vikrams.ce.23@nitj.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikramchahall)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vikramchahall)
+[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=flat-square&logo=globe&logoColor=white)](https://vikramchahall.github.io/portfolio/)
 
 </div>
 
@@ -364,7 +315,7 @@ Open To:
 
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=2da44e&height=150&section=footer&text=Built%20with%20%E2%9D%A4&fontSize=40&fontColor=FFFFFF&animation=fadeIn)
+![](https://capsule-render.vercel.app/api?type=waving&color=2da44e&height=100&section=footer&text=Built%20with%20%E2%9D%A4&fontSize=30&fontColor=FFFFFF&animation=fadeIn)
 
 </div>
 
