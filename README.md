@@ -80,12 +80,6 @@ Full-time roles (backend, full-stack, ML) • Internships • Open-source contri
 
 ---
 
-## 💻 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4D3F?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/)
 
 ---
 
